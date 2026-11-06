@@ -8,3 +8,4 @@ menampilkan data mahasiswa dengan variabel dan konstanta
 menerapkan pemeriksaan rentang semester
 menerapkan percabangan if elseif else
 menerapkan percabangan switch case
+menerapkan perulangan for untuk target belajar
