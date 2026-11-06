@@ -5,3 +5,4 @@ membandingkan keluaran tag HTML dan tag HTML didalam tag PHP
 menambahkan deklarasi variabel PHP
 menambahkan konstanta PHP
 menampilkan data mahasiswa dengan variabel dan konstanta
+menambahkan operator aritmatika PHP
