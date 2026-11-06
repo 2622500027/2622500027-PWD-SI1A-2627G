@@ -1,7 +1,15 @@
-<p>Konten HTML statis.</p>
 <?php
-echo "<p>Konten yang dihasilkan oleh PHP.</p>";
-?> 
+// P6: PHP dasar dan pemrograman sisi peladen
+// // Bagian 1: Variabel dan konstanta
+$nim = "2622500027";
+$namaMahasiswa = "Marcello Baljoevien";
+$programStudi = "SI";
+$tahunAkademik = "2026/2027";
+$semester = 1;
+$ipk = 3.75;
+$statusAktif = true;
+$catatanTambahan = null;
+?>
 <!doctype html>
 <html lang="id">
   <head>
