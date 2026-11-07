@@ -12,3 +12,4 @@ menerapkan perulangan for untuk target belajar
 menerapkan perulangan while untuk nomor semester
 memformat tampilan IPK dengan number_format
 menampilkan catatan tambahan berdasarkam nilai null
+menampilkan tahun dinamis pada footer

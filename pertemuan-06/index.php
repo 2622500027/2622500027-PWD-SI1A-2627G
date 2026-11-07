@@ -195,7 +195,7 @@ default:
     </main>
 
     <footer>
-      <p>&copy; 2026 Marcello Baljoevien [2622500027] </p>
+      <p>&copy; <?= date("Y") ?> <?php echo $namaMahasiswa; ?> [<?= $nim ?>]</p> 
     </footer>
     <hr>
     <a href="../">Kembali Ke Halaman Utama</a>
