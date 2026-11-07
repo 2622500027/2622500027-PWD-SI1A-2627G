@@ -132,7 +132,8 @@ default:
 <section id="contact">
         <h2>Kontak</h2>
         <p>
-          Kunjungi <a target="_blank" href="https://github.com/<?= PROFIL_GITHUB ?>">profil GitHub saya</a>.
+          Kunjungi
+          <a target="_blank" href="https://github.com/<?= PROFIL_GITHUB ?>">profil GitHub saya</a>.
         </p>
 
         <form id="contactForm" action="index.html" method="get" novalidate>
