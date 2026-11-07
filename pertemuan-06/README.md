@@ -14,3 +14,4 @@ memformat tampilan IPK dengan number_format
 menampilkan catatan tambahan berdasarkam nilai null
 menampilkan tahun dinamis pada footer
 menerapkan sintaks keluaran ssingkat PHP
+menyesuaikan action formulir ke index. PHP
