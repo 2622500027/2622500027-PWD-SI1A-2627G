@@ -197,9 +197,7 @@ default:
 
     <footer>
       <p>&copy; <?= date("Y") ?> <?php echo $namaMahasiswa; ?> [<?= $nim ?>]</p> 
-    </footer>
-    <hr>
-    <a href="../">Kembali Ke Halaman Utama</a>
+              </footer>
     <script src="script.js"></script>
    </body>
  </html>

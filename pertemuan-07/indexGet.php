@@ -81,7 +81,7 @@ default:
     <section id="home">
       <h2>Selamat Datang</h2>
       <p>Halo, saya <strong><?php echo $namaMahasiswa; ?></strong>. Saya sedang mempelajari matakuliah <strong><?php print NAMA_MATA_KULIAH; ?></strong> pada tahun akademik <?php echo $tahunAkademik; ?>.</p> 
-      <img src="foto-profile.jpeg" alt="Foto profil Nama Mahasiswa" width="200" />
+      <img src="img/foto-profile.jpeg" alt="Foto profil Nama Mahasiswa" width="200" />
     </section>
 
     <section id="about">
@@ -164,10 +164,10 @@ default:
 
           <div class="form-group">
             <p>Jenis Pesan</p>
-            <label for="pertanyaan">Pertanyaan</label>
             <input type="radio" id="pertanyaan" name="jenis_pesan" value="pertanyaan" required />
-            <label for="saran">Saran</label>
+            <label for="pertanyaan">Pertanyaan</label>
             <input type="radio" id="saran" name="jenis_pesan" value="saran" />
+            <label for="saran">Saran</label>
           </div>
 
           <div class="form-group">
@@ -203,8 +203,6 @@ default:
     <footer>
       <p>&copy; <?= date("Y") ?> <?php echo $namaMahasiswa; ?> [<?= $nim ?>]</p> 
     </footer>
-    <hr>
-    <a href="../">Kembali Ke Halaman Utama</a>
     <script src="script.js"></script>
    </body>
  </html>
