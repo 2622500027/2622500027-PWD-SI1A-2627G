@@ -1,1 +1,1 @@
-# Pertemuan-07
+mempelajari penggunaan  parameter GET
