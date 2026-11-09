@@ -15,7 +15,7 @@ $ipk = 3.75;
 $statusAktif = true;
 $catatanTambahan = null;
 const NAMA_MATA_KULIAH = "Pemrograman Web Dasar";
-const PROFIL_GITHUB = "satpamal";
+const PROFIL_GITHUB = "https://github.com/2622500027?tab=repositories";
 // Bagian 2: Operator
 $batasSemester = 8;
 $sisaSemester = $batasSemester - $semester;
@@ -138,7 +138,7 @@ default:
         <h2>Kontak</h2>
         <p>
           Kunjungi
-          <a target="_blank" href="https://github.com/<?= PROFIL_GITHUB ?>">profil GitHub saya</a>.
+          <a target="_blank" href="https://github.com/2622500027?tab=repositories<?= PROFIL_GITHUB ?>">profil GitHub saya</a>.
         </p>
 
         <form id="contactForm" action="indexGet.php" method="get" novalidate>
