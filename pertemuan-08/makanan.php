@@ -9,10 +9,10 @@
         <h1>Web Kuliner Khas Bangka</h1>
     </div>
     <div id="menu">
-        <a href="index.html">Home</a>
-        <a href="profile.html">Profile</a>
-        <a href="makanan.html">Makanan</a>
-        <a href="tentang.html">Tentang</a>
+        <a href="index.php">Home</a>
+        <a href="profile.php">Profile</a>
+        <a href="makanan.php">Makanan</a>
+        <a href="tentang.php">Tentang</a>
     </div>
     <div id="isi">
         <h2>Macam Macam Makanan Khas Bangka</h2>

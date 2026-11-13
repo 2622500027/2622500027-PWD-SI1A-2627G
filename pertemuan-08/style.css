@@ -38,6 +38,7 @@ body {
     height: 200x;
 }
 .profile img {
+    background-color: blue;
     display: inline-block;
     width: 110px;
     margin: 10px;
